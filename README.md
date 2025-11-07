@@ -16,14 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:kaveerrana2009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/kaveer._.rana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://t.me/KaveerRana" target="_blank"><img src="https://img.shields.io/badge/-Telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://x.com/kaveer_rana" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-222426?style=for-the-badge&logo=stackoverflow&logoColor=#f48024" /></a>
-</p>
+<a href="mailto:kaveer.is.king@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/kaveer.rana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/kaveerrana" target="_blank"><img src="https://img.shields.io/badge/-Telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<!--<a href="https://x.com/kaveer_rana" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>-->
+<!--<a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-222426?style=for-the-badge&logo=stackoverflow&logoColor=#f48024" /></a>
+</p>-->
 
-<h3 align="left">Support me ☕:</h3>
-<p align="left">
+<!--<h3 align="left">Support me ☕:</h3>-->
+<!--<p align="left">
 <a href="https://buymeacoffee.com/kaveerrana" target="_blank"><img src="https://img.shields.io/badge/-BuyMeACoffee-ffd900?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
-</p>
+</p>-->
