@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kaveer2009.Kaveer2009">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kaveer2009.Kaveer2009"> -->
+<img align="right" src="https://komarev.com/ghpvc/?username=Kaveer2009&label=%20%20Profile%20views%20🔥&color=2f65ff&style=plastic">
 
 <h2 align="center">
 <a href="https://git.io/typing-svg">
@@ -17,8 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:kaveer.is.king@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kaveerrana.for.web@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/kaveer.rana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/kaveerrana" target="_blank"><img src="https://img.shields.io/badge/-Telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href = "https://xdaforums.com/m/kaveer-rana.13029173/" target="_blank"><img src="https://img.shields.io/badge/-XDA Developers-f59714?style=for-the-badge&logo=xdadevelopers&logoColor=white" target="_blank"></a>
 <!--<a href="https://x.com/kaveer_rana" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>-->
 <!--<a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-222426?style=for-the-badge&logo=stackoverflow&logoColor=#f48024" /></a>
 </p>-->
