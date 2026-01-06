@@ -12,7 +12,8 @@
 
 <h3 align="left">Beginner Dev 👨‍💻</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaveer2009&show_icons=true&count_private=true&theme=tokyonight)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Kaveer2009&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Kaveer2009&type=contributions)
 
 
 <h3 align="left">Connect with me:</h3>
