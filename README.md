@@ -10,13 +10,25 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/Kaveer2009/Kaveer2009/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Kaveer2009/Kaveer2009/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<h3 align="left">Beginner Dev 👨‍💻</h3>
+## Beginner Dev 👨‍💻
 
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Kaveer2009&type=languages)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Kaveer2009&type=contributions)
 
+## Tools & Tech
 
-<h3 align="left">Connect with me:</h3>
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
+</p>
+
+## Connect with me:
 <p align="left">
 <a href="mailto:kaveer.is.king@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="mailto:kaveerrana.for.web@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
