@@ -10,7 +10,7 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/Kaveer2009/Kaveer2009/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Kaveer2009/Kaveer2009/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-## Beginner Dev 👨‍💻
+## Intermediate Dev 👨‍💻
 
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Kaveer2009&type=languages)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Kaveer2009&type=contributions)
